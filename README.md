@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I am Ezenwa, a fullstack softtware engineer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozone4real&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozone4real&langs_count=10&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
