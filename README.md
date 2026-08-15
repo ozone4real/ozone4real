@@ -1,7 +1,7 @@
 ### Hi there 👋. I am Ezenwa, a full-stack software engineer.
 
 
-[![Ezenwa's GitHub stats](https://github-stats-extended.vercel.app/api?username=ozone4real)](https://github.com/stats-organization/github-stats-extended?hide_rank=true)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ozone4real)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **ozone4real/ozone4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
